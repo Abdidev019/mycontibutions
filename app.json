@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyContribution",
-    "slug": "MyContribution",
+    "name": "Family & Friends App",
+    "slug": "Family & Freinds App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
